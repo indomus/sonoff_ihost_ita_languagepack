@@ -4641,7 +4641,7 @@
   },
   "ERROR.190007": {
     "Original": "No TF card inserted(TF card needs to be inserted to use Docker function.)",
-    "Custom": "Nessuna scheda TF inserita (la scheda TF deve essere inserita per utilizzare la funzione Docker)"
+    "Custom": "Nessuna scheda microSD inserita (la scheda deve essere inserita per utilizzare la funzione Docker)"
   },
   "ERROR.190009": {
     "Original": "Add-on has been used.",
@@ -4649,11 +4649,11 @@
   },
   "ERROR.190011": {
     "Original": "insufficient storage available on TF card",
-    "Custom": "Memoria insufficiente disponibile sulla scheda TF"
+    "Custom": "Memoria insufficiente disponibile sulla scheda microSD"
   },
   "ERROR.190012": {
     "Original": "Please format TF card first.",
-    "Custom": "Si prega di formattare prima la scheda TF."
+    "Custom": "Si prega di formattare prima la scheda microSD."
   },
   "ERROR.190013": {
     "Original": "Failed, settings error",
@@ -4665,7 +4665,7 @@
   },
   "ERROR.190017": {
     "Original": "TF card is being formatted",
-    "Custom": "La scheda TF è in fase di formattazione"
+    "Custom": "La scheda microSD è in fase di formattazione"
   },
   "ERROR.190023": {
     "Original": "Download failed,Unsupported image architecture",
@@ -5029,11 +5029,11 @@
   },
   "DOCKER.TF_NAME": {
     "Original": "TF CARD",
-    "Custom": "Scheda TF"
+    "Custom": "Scheda microSD"
   },
   "DOCKER.TF_DESCRIBE": {
     "Original": "Please insert a TF card with adequate capacity to your iHost before installing add-on. Do not remove the TF card after installation.",
-    "Custom": "Si prega di inserire una scheda TF con capacità adeguata nel tuo iHost prima di installare l'add-on. Non rimuovere la scheda TF dopo l'installazione."
+    "Custom": "Si prega di inserire una scheda microSD con capacità adeguata nel tuo iHost prima di installare l'add-on. Non rimuovere la scheda dopo l'avvenuta installazione."
   },
   "DOCKER.FORMAT": {
     "Original": "Format",
@@ -5113,7 +5113,7 @@
   },
   "DOCKER.FORMAT_TF_CARD": {
     "Original": "Please format TF card first",
-    "Custom": "Si prega di formattare prima la scheda TF"
+    "Custom": "Si prega di formattare prima la scheda microSD"
   },
   "DOCKER.CANCEL_DOWNLOAD": {
     "Original": "Cancel",
@@ -5129,7 +5129,7 @@
   },
   "DOCKER.NO_TF_CARD": {
     "Original": "Ensure that a TF card is inserted before attempting to use Docker.",
-    "Custom": "Assicurati che sia inserita una scheda TF prima di utilizzare Docker."
+    "Custom": "Assicurati che sia inserita una scheda microSD prima di utilizzare Docker."
   },
   "DOCKER.LOGS.FILTER_INPUT_PLACEHOLDER": {
     "Original": "Please enter keywords to filter",
@@ -5217,7 +5217,7 @@
   },
   "DOCKER.TF_CARD_PULLOUT": {
     "Original": "TF card removed",
-    "Custom": "Scheda TF rimossa"
+    "Custom": "Scheda microSD rimossa"
   },
   "DOCKER.ERROR_MESSAGE": {
     "Original": "Download failed, please try again later.",
@@ -5381,11 +5381,11 @@
   },
   "DOCKER.TF_CARD_CHECKING": {
     "Original": "Checking the inserted card",
-    "Custom": "Controllo della scheda inserita"
+    "Custom": "Controllo della scheda microSD inserita"
   },
   "DOCKER.BEFORE_USE_FORMAT": {
     "Original": "To ensure the proper functioning of Docker, please format the TF card beforehand.",
-    "Custom": "Per garantire il corretto funzionamento di Docker, si prega di formattare la scheda TF in anticipo."
+    "Custom": "Per garantire il corretto funzionamento di Docker, si prega di formattare la scheda microSD in anticipo."
   },
   "DOCKER.ADDON_ALREADY_USE": {
     "Original": "{name} already exists, please refresh",
@@ -5397,7 +5397,7 @@
   },
   "DOCKER.INSTALL_INSUFFICIENT_STORAGE": {
     "Original": "Installation failed, insufficient storage available on TF card",
-    "Custom": "Installazione fallita, spazio di archiviazione insufficiente disponibile sulla scheda TF"
+    "Custom": "Installazione fallita, spazio di archiviazione insufficiente disponibile sulla scheda microSD"
   },
   "DOCKER.IMAGE_CANNOT_INSTALLED": {
     "Original": "Download failed,{name} could not be installed",
@@ -5417,7 +5417,7 @@
   },
   "DOCKER.TF_HAS_INSERTED": {
     "Original": "Do not remove the TF card after the installation as it may cause malfunctions or even irreparable damage.",
-    "Custom": "Non rimuovere la scheda TF dopo l'installazione poiché potrebbe causare malfunzionamenti o danni irreparabili."
+    "Custom": "Non rimuovere la scheda microSD dopo l'installazione poiché potrebbe causare malfunzionamenti e/o danni irreparabili ai dati."
   },
   "DOCKER.EXITED": {
     "Original": "Exited",
@@ -5561,11 +5561,11 @@
   },
   "DOCKER.VOLUME_MANAGE.FORMAT_TF_CARD": {
     "Original": "Format TF card",
-    "Custom": "Formatta la scheda TF"
+    "Custom": "Formatta la scheda microSD"
   },
   "DOCKER.VOLUME_MANAGE.DETECTING_TF_CARD": {
     "Original": "Detecting TF card, please wait…",
-    "Custom": "Rilevamento della scheda TF, attendere prego…"
+    "Custom": "Rilevamento della scheda microSD, attendere prego…"
   },
   "DOCKER.VOLUME_MANAGE.COMMAND_USEFUL": {
     "Original": "The command and its parameters to be executed when the add-on is set to start",
@@ -5613,7 +5613,7 @@
   },
   "DOCKER.NOT_REMOVE_TF_CARD": {
     "Original": "Do not remove the TF card after the installation as it may cause malfunctions or even irreparable damage.",
-    "Custom": "Non rimuovere la scheda TF dopo l'installazione in quanto potrebbe causare malfunzionamenti o danni irreparabili."
+    "Custom": "Non rimuovere la scheda microSD dopo l'installazione in quanto potrebbe causare malfunzionamenti e/o danni irreparabili ai dati."
   },
   "DOCKER.NOT_TO_RESTART": {
     "Original": "Do not restart, reset, or power off during the installation procedure.",
@@ -5621,7 +5621,7 @@
   },
   "DOCKER.INSTALL_PROMPT": {
     "Original": "Please be patient while the installation depends on network conditions and TF card read/write speed, it may take 10-30 minutes.",
-    "Custom": "Sii paziente durante l'installazione, che dipende dalle condizioni di rete e dalla velocità di lettura/scrittura della scheda TF; potrebbe richiedere da 10 a 30 minuti."
+    "Custom": "Sii paziente durante l'installazione, che dipende dalle condizioni di rete e dalla velocità di lettura/scrittura della scheda microSD; il processo potrebbe richiedere da 5 a 30 minuti."
   },
   "DOCKER.INSTALLING": {
     "Original": "Installing",
@@ -5649,7 +5649,7 @@
   },
   "DOCKER.FORMAT_TF_CARD_USE_DOCKER": {
     "Original": "TF card needs to be format to use Docker function.",
-    "Custom": "La scheda TF deve essere formattata per utilizzare la funzione Docker."
+    "Custom": "La scheda microSD deve essere formattata per utilizzare la funzione Docker."
   },
   "DOCKER.COMMAND": {
     "Original": "Command",
@@ -5745,19 +5745,19 @@
   },
   "DOCKER.FORMAT_FAIL_REASON": {
     "Original": "TF card formatting failed. There could be several reasons for this:",
-    "Custom": "La formattazione della scheda TF è fallita. Potrebbero esserci diverse ragioni per questo:"
+    "Custom": "La formattazione della scheda microSD è fallita. Potrebbero esserci diverse ragioni per questo:"
   },
   "DOCKER.TF_NO_AREA": {
     "Original": "There is no partition table in TF card.",
-    "Custom": "Non c'è una tabella delle partizioni nella scheda TF."
+    "Custom": "Non c'è una tabella delle partizioni nella scheda microSD."
   },
   "DOCKER.TF_DESTROY": {
     "Original": "TF card is corrupted and cannot be repaired.",
-    "Custom": "La scheda TF è danneggiata e non può essere riparata."
+    "Custom": "La scheda microSD è danneggiata e non può essere riparata."
   },
   "DOCKER.TF_FORMAT_ADVICE": {
     "Original": "Using DiskGenius software to format TF card to FAT32 or EXT4 before inserting it into iHost is recommended.Here are formatting guides for various systems. Click to access detailed instructions on how to format your TF card:",
-    "Custom": "Si consiglia di utilizzare il software DiskGenius per formattare la scheda TF in FAT32 o EXT4 prima di inserirla nell'iHost. Ecco le guide alla formattazione per vari sistemi. Clicca per accedere alle istruzioni dettagliate su come formattare la tua scheda TF:"
+    "Custom": "Si consiglia di utilizzare il software DiskGenius per formattare la scheda microSD in FAT32 o EXT4 prima di inserirla nell'iHost. Ecco le guide alla formattazione per vari sistemi. Clicca per accedere alle istruzioni dettagliate su come formattare la tua scheda TF:"
   },
   "DOCKER.ADD_ON_PATH": {
     "Original": "add-on path",
